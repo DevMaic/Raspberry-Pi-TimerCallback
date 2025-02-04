@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Timer_callback.hex'
+elf = 'build/Timer_callback.elf'
